@@ -21,6 +21,7 @@ logica\Horario.class
 logica\Controladora.class
 logica\Usuario_.class
 logica\Persona_.class
+servlets\SvUsuarios.class
 com\mypc\consultorioodontologico\resources\JakartaEE8Resource.class
 logica\Secretaio.class
 logica\Horario_.class
